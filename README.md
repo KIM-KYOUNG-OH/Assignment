@@ -2,7 +2,7 @@
 
 ## index.html
 * `div`로 초기 AREA size와 background color를 설정함
-* body를 세개의 `div` 즉, `#header, #article, #footer`로 나눔
+* body를 세개의 `div` : `#header, #article, #footer`로 나눔
   * header   
     * `padding, margin`으로 흰색 네모칸을 구현했지만 html상의 오류인지 계속 top쪽 green color가 덮어쓰여짐
     * `table`을 사용하려 했으나 각각의 열사이의 간격을 벌리는게 안됨
