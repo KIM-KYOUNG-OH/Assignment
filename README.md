@@ -1,5 +1,5 @@
 # Assignment1
-세개의 html파일('index.html', 'aboutme.html', 'photo.html')을 링크를 통해 연동하여 자기소개페이지를 구현해보았습니다.
+세개의 html파일('index.html', 'aboutme.html', 'photo.html')을 링크를 통해 연동하여 자기소개 페이지를 구현해보았습니다.
 
 ## index.html
 * `div`로 초기 AREA size와 background color를 설정함
