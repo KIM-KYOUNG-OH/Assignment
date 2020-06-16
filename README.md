@@ -1,4 +1,5 @@
 # Assignment1
+세개의 html파일('index.html', 'aboutme.html', 'photo.html')을 링크를 통해 연동하여 자기소개페이지를 구현해보았습니다.
 
 ## index.html
 * `div`로 초기 AREA size와 background color를 설정함
@@ -28,6 +29,6 @@
 * style이 중복된 내용이 많아서 생략이 필요함
 * 초기 AREA size를 통일 시키지 못함
 
-### 참고 사이트
+## 참고 사이트
 1. HTML, CSS 공식 문서   
 https://www.w3schools.com/css/css_border.asp
