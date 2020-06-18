@@ -1,4 +1,4 @@
-# Assignment1
+~ # Assignment1 ~
 세개의 html파일('index.html', 'aboutme.html', 'photo.html')을 하이퍼링크를 통해 연동하여 자기소개 페이지를 구현해보았습니다.
 
 ## index.html
