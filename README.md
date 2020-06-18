@@ -6,8 +6,8 @@
 * body를 세개의 `div` : `#header, #article, #footer`로 나눔
   * header         
     * `padding, margin`으로 흰색 네모칸을 구현했지만 html상의 오류인지 계속 top쪽 green color가 덮어쓰여짐        
-    ~~* `table`을 사용하려 했으나 각각의 열사이의 간격을 벌리는게 안됨~~ **border-spacing              
-    ~~* `li`를 사용하려 했으나 가로방향으로 정렬되게하는 방법이나 list앞에 마크를 지우는 방법을 모름~~ **list-style-type : none;             
+    ~~* `table`을 사용하려 했으나 각각의 열사이의 간격을 벌리는게 안됨~~ **border-spacing**              
+    ~~* `li`를 사용하려 했으나 가로방향으로 정렬되게하는 방법이나 list앞에 마크를 지우는 방법을 모름~~ **list-style-type : none;**             
     * 4개의 `button`들을 class로 묶어서 style(`border`, `box-shadow`)을 표현함        
     ~~* `button`의 어느부분을 누르던 간에 하이퍼링크가 작동되게하고 싶었지만 구현이 안됨    
     ~~* 링크를 한번 클릭하고 나면 색이 변하고 밑줄이 남음
